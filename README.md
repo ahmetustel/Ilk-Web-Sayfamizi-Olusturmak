@@ -22,7 +22,7 @@ git clone https://github.com/ahmetustel/Ilk-Web-Sayfamizi-Olusturmak.git
 
 Projeyi cloneladıktan sonra Visual Studio Code programını açınız.
 
-```cmd
+```bash
 cd desktop
 mkdir Ilk-Web-Sayfamizi-Olusturmak
 code .
