@@ -8,7 +8,7 @@
 
 Bu repo [Patika - HTML](https://app.patika.dev/courses/html) eğitimnde Ödev_1 eğitimi için oluşturduğum repodur. İçerisinde bir adet README dosyası, bir adet index.html, bir adet .gitignore dosyası ve bir adet image klasörü barındırıyor.
 
-![](/image/index.png)
+![Resim](/image/index.png)
 
 ## Installation
 
